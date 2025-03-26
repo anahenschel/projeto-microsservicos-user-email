@@ -1,5 +1,6 @@
 Projeto desenvolvido a partir de um curso no YouTube da Michelli Brito, onde foi construído o user-microservice e email-microservice,
 foi implementado a comunicação assíncrona entre eles utilizando mensageria com rabbitMQ e envio de emails com smtp do gmail.
+
 /////////////////////////////////////////////////////////////
 
 Base do application.properties para o microsservico de user:
